@@ -47,6 +47,7 @@ case 3:
     break
 case 4:
     console.log('Quinta')
+    break
 default:
    console.log(`${diaDaSemana} não é um dia festivo.`)        
 }*/
