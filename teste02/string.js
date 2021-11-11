@@ -31,6 +31,3 @@ if (mes === "fevereiro") {
 } else {
     console.log(`${mes} não é um mês festivo`)
 }
-
-
-
